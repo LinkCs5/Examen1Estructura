@@ -1,0 +1,12 @@
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\ExamenParcial1\ExamenParcial1\obj\Debug\ExamenParcial1.csproj.AssemblyReference.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\ExamenParcial1\ExamenParcial1\obj\Debug\ExamenParcial1.Properties.Resources.resources
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\ExamenParcial1\ExamenParcial1\obj\Debug\ExamenParcial1.csproj.GenerateResource.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\ExamenParcial1\ExamenParcial1\obj\Debug\ExamenParcial1.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\ExamenParcial1\ExamenParcial1\bin\Debug\ExamenParcial1.exe.config
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\ExamenParcial1\ExamenParcial1\bin\Debug\ExamenParcial1.exe
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\ExamenParcial1\ExamenParcial1\bin\Debug\ExamenParcial1.pdb
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\ExamenParcial1\ExamenParcial1\obj\Debug\ExamenParcial1.exe
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\ExamenParcial1\ExamenParcial1\obj\Debug\ExamenParcial1.pdb
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\ExamenParcial1\ExamenParcial1\obj\Debug\ExamenParcial1.Form1.resources
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\ExamenParcial1\ExamenParcial1\bin\Debug\Pacientes.mdf
+C:\Users\jesus\Documents\Cuatrimestre\4\Estructura de Datos Aplicados\Parcial 1\ExamenParcial1\ExamenParcial1\bin\Debug\Pacientes_log.ldf
